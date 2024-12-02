@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=" device-width, initial-scale="1.0">
+    <title>Macedônia - Página Oficial</title>
+    <link rel="stylesheet" href="/CSS/style.css">
+    <script src="path/to/script.js"></script>
+</head>
+
+<body>
+    <div>
+        <H1 class="nav destacada">Bem vindo á Macedônia</H1>
+        <img src="/img/macedonia 5.webp" height="100px" alt="macedonia">
+    </div>
+
+    <header>
+        <nav class="center">
+            <ul class="center">
+                <li><a href="/index.html">História</a></li>
+                <li><a href="/page/cultura.html">Cultura</a></li>
+                <Li><a href="/page/turismo.html">Turismo</a></Li>
+                <li><a href="/page/Galeria.html">Galeria</a></li>
+              
+            </ul>
+        </nav>
+        <section id="galeria">
+            <h2>Galeria de Imagens</h2>
+            <div class="galeria">
+                <img src="/img/macedonia1.jpg" onclick="mostrarModal(this)" alt="imagem1">
+                <img src="/img/macedonia 2.jpg" onclick="mostrarModal(this)" alt="imagem2">
+                <img src="/img/macedonia3.jpg" onclick="mostrarModal(this)" alt="imagem3">
+                <img src="/img/cultura.jpg" onclick="mostrarModal(this)" alt="imagem4">
+                <img src="/img/Desfiladeiro de Matka.jpg" onclick="mostrarModal(this)" alt="imagem5">
+                <img src="/img/lago ohrid.jpg" onclick="mostrarModal(this)" alt="imagem6">
+                <img src="/img/macedonia.jpg" onclick="mostrarModal(this)" alt="imagem7">
+                <img src="/img/mariovo.jpg" onclick="mostrarModal(this)" alt="imagem8">
+                <img src="/img/ohrid.jpg" onclick="mostrarModal(this)" alt="imagem9">
+                <img src="/img/Parque Nacional Galicica.jpg" onclick="mostrarModal(this)" alt="imagem10">
+                <img src="/img/parque nacional mavrovo.jpg" onclick="mostrarModal(this)" alt="imagem11">
+                
+            </div>
+        </section>
+        
+        
+        <div id="modal" class="modal">
+            <span class="fechar" onclick="fecharModal()">&times;</span>
+            <img class="imagemModal" src="" alt="Imagem Ampliada">
+        </div>
+    </header>
+</body>
+</html>

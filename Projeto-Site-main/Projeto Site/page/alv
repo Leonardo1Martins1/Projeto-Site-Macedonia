@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=" device-width, initial-scale="1.0">
+    <title>Macedônia - Página Oficial</title>
+    <link rel="stylesheet" href="/CSS/style.css">
+    <script src="path/to/script.js"></script>
+</head>
+
+<body>
+    <div>
+        <H1 class="nav destacada">Bem vindo á Macedônia</H1>
+        <img src="/img/macedonia 5.webp" height="100px" alt="macedonia">
+    </div>
+
+    <header>
+        <nav class="center">
+            <ul class="center">
+                <li><a href="/index.html">História</a></li>
+                <li><a href="/page/cultura.html">Cultura</a></li>
+                <Li><a href="/page/turismo.html">Turismo</a></Li>
+                <li><a href="/page/Galeria.html">Galeria</a></li>
+              
+            </ul>
+        </nav>
+    </header>
+
+    <section class="center" id="Cultura">
+            <H2 class="center">Cultura da Macedônia</H2>
+            <p>Os macedônios, povo que habitava o norte da Grécia, são considerados os herdeiros dos últimos grupos de
+                helenos que se estabeleceram na região durante o Período Pré-homérico. Eles consideravam-se um povo
+                helenizado,
+                isto é, um povo de cultura grega, mas eram vistos com menosprezo pelos próprios gregos.
+                A cultura da Macedónia do Norte é uma mistura de tradições eslavas, otomanas e balcânicas. A música e a
+                dança folclórica são muito importante, e o país tem um rico património de igrejas ortodoxas, mosteiros
+                e castelos.
+                Com uma variedade de atrações turísticas, desde cidades históricas e monumentos culturais até paisagens
+                naturais deslumbrantes.</p>
+            <img src="img/cultura.jpg" height="100px" alt="macedonia1">
+        </section>
+
+
+        <section class="center" id="Turismo"></section>
+            <h2 class="center">Turismo de Marcedônia</h2>
+            <p>Mercedônia possui paisagens deslumbrantes, desde suas montanhas até suas belas praias de areia branca.
+                Confira abaixo, algumas de suas Maravilhas.
+            </p>
+
+        </section>
+        <section class="center" id="Turismo">
+            <h2>Desfiladeiro de Matka</h2>
+
+            <p>Ótimo para caminhadas e passeios de barco, o desfiladeiro de Matka fica a 15 quilómetros de Skopje.
+                As paredes do desfiladeiro, criadas pela erosão do rio Treska, chegam aos 1000 metros de altura.
+                O local inclui igrejas e mosteiros medievais, bem como várias grutas, sendo a de Vrelo a mais famosa.
+            </p>
+            <img src="img/Desfiladeiro de Matka.jpg" height="100px" alt="Desfiladeiro de Matka">
+        </section>
+
+        <section class="center" id="Turismo">
+            <h2>Parque Nacional Galicia</h2>
+            <p>Situado no Monte Galicica, entre os lagos Ohrid e Prespa, o parque é conhecido pela sua beleza natural e
+                flora e fauna endémicas.
+                Possui diversas vistas panorâmicas e é ideal para os amantes da natureza.
+                A flora inclui mais de 800 espécies, muitas das quais raras e endémicas.</p>
+            <img src="img/Parque Nacional Galicica.jpg" height="100px" alt="Parque Nacional Galicica">
+        </section>
+
+        <section class="center" id="Turismo">
+            <h2>Mariovo</h2>
+            <p>Mariovo é uma região histórica no sul da Macedónia, com menos de quinhentos habitantes espalhados por uma
+                vasta área.
+                A ponte de pedra sobre o rio Gradeshka é uma das construções mais bonitas da região.
+                A água limpa e fria do rio cria um pequeno canyon que é irresistível pela sua beleza.</p>
+            <img src="img/mariovo.jpg" height="100px" alt="mariovo">
+        </section>
+
+        <section class="center" id="Turismo">
+            <h2>Lago Ohrid</h2>
+            <p>É o maior e mais bonito dos lagos tectónicos da Macedónia, com 30 quilómetros de comprimento e 288 metros
+                de
+                profundidade.
+                As suas águas limpas e as paisagens montanhosas atraem visitantes desde os tempos pré-históricos.
+                O lago é também conhecido pelas enguias de Ohrid e pelas pérolas feitas com as suas escamas.</p>
+            <img src="img/lago ohrid.jpg" height="50px" alt="lago ohrid">
+        </section>
+
+        <section class="center" id="Turismo">
+            <h2>Parque Nacional Mavroco</h2>
+            <p>O Parque Nacional Mavrovo é o maior dos quatro parques nacionais da Macedônia do Norte. Localizado no
+                oeste
+                do país, ele se espalha por uma área de cerca de 780 km² e é caracterizado por cânions profundos, lagos
+                e
+                florestas densas que abundam com vida selvagem diversificada.
+                Foi criada em 1949 por uma lei aprovada pela Assembleia Nacional da Macedônia; Mais tarde, a legislação
+                foi
+                alterada para impor um sistema de proteção muito mais rigoroso, dividindo o parque em três zonas:
+                reservas
+                naturais estritas, reservas administradas e uma zona turística.</p>
+            <img src="img/parque nacional mavrovo.jpg" height="100px" alt="parque nacional mavrovo">
+        </section>
+
+        <section class="center" id="Turismo">
+            <h2>Parque Nacional Pelister</h2>
+            <p>O Parque Nacional de Pelister, localizado na Macedônia do Norte, é o parque nacional mais antigo do país,
+                estabelecido em 19481.
+                Situado na cordilheira Baba, cobre uma área de 171,5 km² e é conhecido por sua rica biodiversidade e
+                paisagens deslumbrantes</p>
+            <img src="img/pelister national park.avif" height="100px" alt="pelister national park">
+        </section>
+
+        <section id="Referencia">
+            <h2>Referencia de Mercedonia</h2>
+            <p>A Macedônia, localizada na península Balcânica, é um país rico em belezas naturais. Aqui estão algumas
+                das principais referências naturais do país:
+                Parque Nacional de Mavrovo: Este é o maior parque nacional da Macedônia, cobrindo uma área de 73.088
+                hectares. O parque é conhecido por suas montanhas, lagos artificiais, cavernas pitorescas e o
+                deslumbrante cânion do rio Radika1.
+                Parque Nacional de Pelister: Localizado na montanha Baba, este parque é famoso por sua flora e fauna
+                diversificadas, incluindo o pinheiro de cinco agulhas, uma espécie única da era Cenozóica. O parque
+                também é um popular destino de esqui e oferece vistas panorâmicas do vale de Pelagonia e do lago
+                Prespa1.
+                Parque Nacional de Galičica: Situado entre os lagos Ohrid e Prespa, este parque oferece trilhas para
+                caminhadas com vistas espetaculares e uma rica biodiversidade. É um local ideal para os amantes da
+                natureza e da aventura</p>
+        </section>
+    </section>
+
+</body>
+</html>

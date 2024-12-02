@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=" device-width, initial-scale="1.0">
+    <title>Macedônia - Página Oficial</title>
+    <link rel="stylesheet" href="/CSS/style.css">
+    <script src="path/to/script.js"></script>
+</head>
+
+<body>
+    <div>
+        <H1 class="nav destacada">Bem vindo á Macedônia</H1>
+        <img src="img/macedonia 5.webp" height="100px" alt="macedonia">
+    </div>
+
+    <header>
+        <nav class="center">
+            <ul class="center">
+                <li><a href="/index.html">História</a></li>
+                <li><a href="/page/cultura.html">Cultura</a></li>
+                <Li><a href="/page/turismo.html">Turismo</a></Li>
+                <Li><a href="/page/Galeria">Galeria</a></Li>        
+        
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="center" id="História">
+            <H2 class="center">História da macedônia</H2>
+            <p>"Localizada no interior da montanhosa península Balcânica,
+                a Macedônia limita-se com a Sérvia (a noroeste), Bulgária (a leste), Grécia (ao sul) e Albânia (a
+                oeste),
+                seu território não possui saída para o mar.
+                A Macedônia é uma das ex-repúblicas da Iugoslávia, cuja independência foi obtida no dia 17 de setembro
+                de 1991.
+                O processo de independência ocorreu de forma pacífica, diferentemente dos outros países dessa região.
+                A Bulgária foi o primeiro país a reconhecer a Macedônia como nação independente."
+            </p>
+            <img src="img/macedonia1.jpg" height="100px" alt="macedonia1">
+        </section>
+
+    >
+
+        <section id="Referencia">
+            <h2>Referencia de Mercedonia</h2>
+            <p>A Macedônia, localizada na península Balcânica, é um país rico em belezas naturais. Aqui estão algumas
+                das principais referências naturais do país:
+                Parque Nacional de Mavrovo: Este é o maior parque nacional da Macedônia, cobrindo uma área de 73.088
+                hectares. O parque é conhecido por suas montanhas, lagos artificiais, cavernas pitorescas e o
+                deslumbrante cânion do rio Radika1.
+                Parque Nacional de Pelister: Localizado na montanha Baba, este parque é famoso por sua flora e fauna
+                diversificadas, incluindo o pinheiro de cinco agulhas, uma espécie única da era Cenozóica. O parque
+                também é um popular destino de esqui e oferece vistas panorâmicas do vale de Pelagonia e do lago
+                Prespa1.
+                Parque Nacional de Galičica: Situado entre os lagos Ohrid e Prespa, este parque oferece trilhas para
+                caminhadas com vistas espetaculares e uma rica biodiversidade. É um local ideal para os amantes da
+                natureza e da aventura</p>
+        </section>
+
+        <section id="Referencia">
+            <h2>Referência de Macedônia</h2>
+            <p id="textoReferencia" class="escondido">
+                A Macedônia, localizada na península Balcânica, é um país rico em belezas naturais. Aqui estão algumas das
+                principais referências naturais do país:
+                Parque Nacional de Mavrovo: Este é o maior parque nacional da Macedônia, cobrindo uma área de 73.088 hectares...
+            </p>
+            <button onclick="mostrarOcultarTexto()">Mostrar/Ocultar Detalhes</button>
+        </section>
+        
+
+        <section id="feedback">
+            <h2>Deixe seu Feedback</h2>
+            <form id="formFeedback" onsubmit="return validarFormulario()">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome" required><br><br>
+                
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required><br><br>
+                
+                <label for="mensagem">Mensagem:</label><br>
+                <textarea id="mensagem" name="mensagem" required></textarea><br><br>
+                
+                <button type="submit">Enviar</button>
+            </form>
+        </section>     
+           
+
+</body>
+
+</html>
